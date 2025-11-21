@@ -20,7 +20,7 @@ namespace TeamProjectC6.Menu_s
                 studentMenu.Run();
 
                 // need to acturaly fix this 
-            });
+            });// Add more menu items as needed
 
         }
     }
