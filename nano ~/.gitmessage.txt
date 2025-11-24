@@ -1,0 +1,15 @@
+
+# Commit Title (short, imperative):
+# Example: Fix bug in user login flow
+
+# Detailed Description:
+# - What changes were made?
+# - Why were they necessary?
+# - Any side effects or related issues?
+
+# Issue Reference:
+# Example: Fixes #123 or Related to #456
+
+# Checklist:
+# [ ] Code compiles
+# [ ] Tests added/updated
