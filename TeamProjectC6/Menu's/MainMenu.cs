@@ -16,11 +16,9 @@ namespace TeamProjectC6.Menu_s
         {
             AddItem("Exanple Menu", () =>
             {
-                ExanpleMenu studentMenu = new ExanpleMenu();
-                studentMenu.Run();
-
-                // need to acturaly fix this 
-            });// Add more menu items as needed
+                ExampleMenue exampleMenue = new ExampleMenue();
+                exampleMenue.Run();
+            });
 
         }
     }
