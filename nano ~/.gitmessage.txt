@@ -1,16 +1,15 @@
 
-# <type>(<scope>): <short summary>
-# Types: feat, fix, docs, style, refactor, test, chore
-# Example: feat(auth): add JWT authentication
+# Commit Title (short, imperative):
+# Example: Fix bug in user login flow
 
-# --- Description ---
-# Explain what and why (not how):
-# - What is the change?
-# - Why is it needed?
+# Detailed Description:
+# - What changes were made?
+# - Why were they necessary?
+# - Any side effects or related issues?
 
-# --- Breaking Changes ---
-# List any breaking changes here:
-# - None OR describe impact
+# Issue Reference:
+# Example: Fixes #123 or Related to #456
 
-# --- Issues ---
-# Reference related issues:
+# Checklist:
+# [ ] Code compiles
+# [ ] Tests added/updated
