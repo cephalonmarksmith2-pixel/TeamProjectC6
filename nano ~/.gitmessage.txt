@@ -1,0 +1,16 @@
+
+# <type>(<scope>): <short summary>
+# Types: feat, fix, docs, style, refactor, test, chore
+# Example: feat(auth): add JWT authentication
+
+# --- Description ---
+# Explain what and why (not how):
+# - What is the change?
+# - Why is it needed?
+
+# --- Breaking Changes ---
+# List any breaking changes here:
+# - None OR describe impact
+
+# --- Issues ---
+# Reference related issues:
